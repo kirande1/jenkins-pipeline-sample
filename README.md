@@ -14,7 +14,7 @@ This project contains a simple Java-based pipeline that processes input data and
    ```
 2. Navigate to the project directory:
    ```bash
-   cd simple-java-pipeline
+   cd jenkins-pipeline-sample
    ```
 3. Build the project using Maven:
    ```bash
